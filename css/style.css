@@ -178,7 +178,7 @@ body {
 }
 
 .topnav2 .icon2 {
-  display: block;
+  display: none;
 }
 
 @media screen and (max-width: 600px) {
